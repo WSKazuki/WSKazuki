@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Husam Abu Ghanima
 
-<!--
-**WSKazuki/WSKazuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇮🇱 Originally from Israel, I moved to Italy 3 years ago to study **Computer Science** at the University of Florence.  
+🌍 I speak **4 languages**: Arabic (native), Hebrew, English, and Italian.  
+🔐 I’m passionate about **Cybersecurity** and building projects that explore systems, security, and programming.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming & Systems**: Java, C, Assembly, SQL, Bash  
+- **Operating Systems**: Linux, Ubuntu  
+- **Cybersecurity**: Penetration Testing, Security Fundamentals  
+- **Other**: Algorithms & Data Structures, Databases (MySQL)  
+
+---
+
+## 📂 Projects
+- **Operating Systems** – Process management, file handling, and C-based OS projects  
+- **Assembly** – Low-level programming and system interaction  
+- **Algorithms & Data Structures** – Implementations and problem solving  
+- **Penetration Testing** – Labs and practical security exercises  
+- **Databases (MySQL)** – Schema design and query optimization  
+
+---
+
+##  Contact
+- Email: **husam260401@gmail.com**  
+- GitHub: [WSKazuki](https://github.com/WSKazuki)  
+
+---
+
+⭐️ *Always open to learning new technologies and collaborating on interesting projects!*
