@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Husam Abu Ghanima
 
-I am Originally from Israel, I moved to Italy 3 years ago to study **Computer Science** at the University of Florence.  
+I am originally from Israel, I moved to Italy 3 years ago to study **Computer Science** at the University of Florence.  
 🌍 I speak **4 languages**: Arabic (native), Hebrew, English, and Italian.  
 🔐 I’m passionate about **Cybersecurity** and building projects that explore systems, security, and programming.  
 
