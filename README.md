@@ -20,7 +20,8 @@ I am originally from Israel, I moved to Italy 3 years ago to study **Computer Sc
 - **Assembly** – Low-level programming and system interaction  
 - **Algorithms & Data Structures** – Implementations and problem solving  
 - **Penetration Testing** – Labs and practical security exercises  
-- **Databases (MySQL)** – Schema design and query optimization  
+- **Databases (MySQL)** – Schema design and query optimization
+- **Front-End Dev** - HTML, CSS project - daily dribble newsletter
 
 ---
 
@@ -30,4 +31,4 @@ I am originally from Israel, I moved to Italy 3 years ago to study **Computer Sc
 
 ---
 
-⭐️ *Always open to learning new technologies and collaborating on interesting projects!*
+ *Always open to learning new technologies and collaborating on interesting projects!*
