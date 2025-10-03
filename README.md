@@ -8,7 +8,7 @@ I am originally from Israel, I moved to Italy 3 years ago, to study **Computer S
 
 ## Skills
 - **Programming & Systems**: Java, C, Assembly, SQL, Bash  
-- **Operating Systems**: Linux, Ubuntu  
+- **Operating Systems**: Linux, Ubuntu, gitbash  
 - **Cybersecurity**: Penetration Testing, Security Fundamentals
 - **Web Development**: HTML, CSS, JS, React
 - **Other**: Algorithms & Data Structures, Databases (MySQL)  
